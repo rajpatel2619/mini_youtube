@@ -20,7 +20,7 @@ componentDidMount(){
             params:{
                 part:'snippet',
                 maxResult:5,
-                key:'AIzaSyBLcDi-eScP1irF9OQoD70FC_s75OqJWIc',
+                key:'',
                 q:term
             }
         });
